@@ -2,7 +2,7 @@
 
 A **command-line Pokedex** that lets you explore Pokémon locations, catch Pokémon, and manage your own **Pokedex**, powered by [PokeAPI](https://pokeapi.co/)!
 
-![Pokedex CLI](https://i.imgur.com/AkMd58J.png)
+![Pokedex CLI](https://imgur.com/gallery/all-friends-chose-different-teams-there-are-dragonites-nearby-pyIUjZc)
 
 ## 🚀 Features
 - 🗺 **Explore Pokémon locations** (`map`, `mapb`)
