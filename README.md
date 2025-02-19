@@ -1,8 +1,8 @@
 # 🏆 Pokedex CLI
 
-A **command-line Pokedex** that lets you explore Pokémon locations, catch Pokémon, and manage your own **Pokedex**, powered by [PokeAPI](https://pokeapi.co/)!
+A **command-line Pokedex** lets you explore Pokémon locations, catch Pokémon, and manage your own **Pokedex**, powered by [PokeAPI](https://pokeapi.co/)!
 
-![Pokedex CLI](https://in.pinterest.com/pin/6544361952795712/)
+![Pokedex CLI]()
 
 ## 🚀 Features
 - 🗺 **Explore Pokémon locations** (`map`, `mapb`)
