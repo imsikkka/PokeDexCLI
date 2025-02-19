@@ -2,7 +2,7 @@
 
 A **command-line Pokedex** lets you explore Pokémon locations, catch Pokémon, and manage your own **Pokedex**, powered by [PokeAPI](https://pokeapi.co/)!
 
-![Pokedex CLI]()
+
 
 ## 🚀 Features
 - 🗺 **Explore Pokémon locations** (`map`, `mapb`)
